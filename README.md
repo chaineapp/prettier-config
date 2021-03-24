@@ -91,6 +91,18 @@ Open .vscode/settings.json file and confirm:
 }
 ```
 
+You can also use the same config from this package directly in your VSCode if you don't want to install this package everytime for personal projects or POCs. Just add this to the `settings.json`:
+
+```json
+  "prettier.printWidth": 120,
+  "prettier.tabWidth": 2,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.bracketSpacing": false,
+  "prettier.trailingComma": "none",
+  "prettier.arrowParens": "avoid",
+```
+
 # Extend or override this configuration
 
 If you want to extend or this configuration or override any of the options for a specific project or repo, first import the configuration in a `.prettierrc.js` file and then export the modifications.

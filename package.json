@@ -1,6 +1,6 @@
 {
   "name": "@chaine/prettier-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Prettier config used at Chaine",
   "repository": {
     "type": "git",
@@ -12,7 +12,12 @@
     "prettier settings",
     "prettier configuration",
     "prettier javascript",
-    "prettier typescript"
+    "prettier typescript",
+    "code formatting",
+    "code formatter",
+    "formatting",
+    "clean code",
+    "code cleaner"
   ],
   "files": [
     "index.js"
