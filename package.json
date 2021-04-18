@@ -1,31 +1,31 @@
 {
-  "name": "@chaine/prettier-config",
-  "version": "1.0.3",
-  "description": "Prettier config used at Chaine",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chaineapp/prettier-config.git"
-  },
-  "keywords": [
-    "prettier",
-    "prettier config",
-    "prettier settings",
-    "prettier configuration",
-    "prettier javascript",
-    "prettier typescript",
-    "code formatting",
-    "code formatter",
-    "formatting",
-    "clean code",
-    "code cleaner"
-  ],
-  "files": [
-    "index.js"
-  ],
-  "license": "MIT",
-  "author": "Chaine Inc.",
-  "main": "index.js",
-  "scripts": {
-    "deploy": "npm publish"
-  }
+   "name": "@chaine/prettier-config",
+   "version": "1.1.0",
+   "description": "Prettier config used at Chaine",
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/chaineapp/prettier-config.git"
+   },
+   "keywords": [
+      "prettier",
+      "prettier config",
+      "prettier settings",
+      "prettier configuration",
+      "prettier javascript",
+      "prettier typescript",
+      "code formatting",
+      "code formatter",
+      "formatting",
+      "clean code",
+      "code cleaner"
+   ],
+   "files": [
+      "index.js"
+   ],
+   "license": "MIT",
+   "author": "Chaine Inc.",
+   "main": "index.js",
+   "scripts": {
+      "deploy": "npm publish"
+   }
 }
